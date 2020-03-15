@@ -1,0 +1,7 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  annotations:
+    openshift.io/description: team-b-project-description
+    openshift.io/display-name: team-b-project-display-name
+  name: team-b

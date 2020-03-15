@@ -1,3 +1,5 @@
 resources:
+  - namespace.yaml
+  - smcp.yaml
   - smmr.yaml
 namespace: istio-system
