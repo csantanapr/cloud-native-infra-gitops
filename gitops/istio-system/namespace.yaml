@@ -1,7 +1,0 @@
-apiVersion: v1
-kind: Namespace
-metadata:
-  annotations:
-    openshift.io/description: service-mesh-description
-    openshift.io/display-name: service-mesh-display-name
-  name: istio-system
