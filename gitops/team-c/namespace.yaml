@@ -1,0 +1,7 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  annotations:
+    openshift.io/description: team-c-project-description
+    openshift.io/display-name: team-c-project-display-name
+  name: team-c
