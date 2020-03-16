@@ -6,3 +6,4 @@ spec:
   members:
     - bookinfo
     - team-a
+    - team-b
